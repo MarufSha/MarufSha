@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;I+AM+MARUF+SHAHRIAR;&center=true&size=30">
   </a>
 </h1>
-<h3 align="center">3rd Year Computer Science and Engineering Student at American International University - Bangladesh</h3>
 <p align="center">
     <a href="https://github.com/marufsha/marufsha/actions">
       <img alt="Tests Passing" src="https://img.shields.io/static/v1?label=Test&message=Passing&color=limegreen&logo=github" />
