@@ -95,24 +95,6 @@ Trading account management dashboard — built pixel-perfect from a custom Figma
 
 ---
 
-### github stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MarufSha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=94a3b8&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarufSha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8&langs_count=6&hide=html" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MarufSha&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=4b5563)
-
-</div>
-
----
-
 ### currently
 
 - 🔭 &nbsp;Building production-grade UIs with Next.js App Router
