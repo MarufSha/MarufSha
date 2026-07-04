@@ -9,9 +9,9 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     
 ```
 
-### Frontend Engineer — Next.js · React · TypeScript
+### Frontend Developer — Next.js · React · TypeScript
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MarufSha&style=flat-square&color=6366f1&label=profile+views)](https://github.com/MarufSha)
+
 [![Email](https://img.shields.io/badge/email-niloy9896%40gmail.com-6366f1?style=flat-square&logo=gmail&logoColor=white)](mailto:niloy9896@gmail.com)
 
 </div>
